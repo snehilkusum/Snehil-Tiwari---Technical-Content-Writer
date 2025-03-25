@@ -1,0 +1,90 @@
+# Learning Markdown
+<p> This file is created using Markdown.</p>
+
+# Headers
+# This is an H1
+## This is an H2
+### This is an H3
+
+# Emphasis
+*This text will be italic*
+_This will also be italic_
+
+**This text will be bold**
+__This will also be bold__
+
+*You **can** combine them*
+
+# Lists
+## Unordered
+- Item 1
+- Item 2
+  - Subitem 1
+  - Subitem 2
+
+## Ordered
+1. Item 1
+2. Item 2
+3. Item 3
+
+# Links
+[GitHub](http://github.com)
+
+# Images
+![Alt text](url)
+
+# Blockquotes
+> This is a blockquote.
+
+# Inline code
+`This is inline code`
+
+# Code blocks
+```language
+// This is a code block
+
+---
+
+    
+# Learning Markdown
+<p> This file is created using Markdown.</p>
+
+---
+
+## Text Formatting
+
+**Bold Text**
+
+*Italic Text*
+
+~~Strikethrough Text~~
+
+## Lists
+
+### Unordered List
+- Item 1
+- Item 2
+  - Subitem 1
+  - Subitem 2
+
+### Ordered List
+1. First item
+2. Second item
+3. Third item
+
+## Links
+[GitHub](http://github.com)
+
+## Images
+![Alt text](url)
+
+## Blockquotes
+> This is a blockquote.
+
+## Inline Code
+`This is inline code`
+
+## Code Blocks
+```python
+# This is a code block
+print("Hello, World!")
